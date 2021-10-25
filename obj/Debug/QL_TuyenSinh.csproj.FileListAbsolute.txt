@@ -1,0 +1,10 @@
+C:\Users\VCB\source\repos\QL_TuyenSinh\obj\Debug\QL_TuyenSinh.csprojAssemblyReference.cache
+C:\Users\VCB\source\repos\QL_TuyenSinh\obj\Debug\QL_TuyenSinh.Properties.Resources.resources
+C:\Users\VCB\source\repos\QL_TuyenSinh\obj\Debug\QL_TuyenSinh.csproj.GenerateResource.cache
+C:\Users\VCB\source\repos\QL_TuyenSinh\obj\Debug\QL_TuyenSinh.csproj.CoreCompileInputs.cache
+C:\Users\VCB\source\repos\QL_TuyenSinh\bin\Debug\QL_TuyenSinh.exe.config
+C:\Users\VCB\source\repos\QL_TuyenSinh\bin\Debug\QL_TuyenSinh.exe
+C:\Users\VCB\source\repos\QL_TuyenSinh\bin\Debug\QL_TuyenSinh.pdb
+C:\Users\VCB\source\repos\QL_TuyenSinh\obj\Debug\QL_TuyenSinh.Frm_Trường.resources
+C:\Users\VCB\source\repos\QL_TuyenSinh\obj\Debug\QL_TuyenSinh.exe
+C:\Users\VCB\source\repos\QL_TuyenSinh\obj\Debug\QL_TuyenSinh.pdb
